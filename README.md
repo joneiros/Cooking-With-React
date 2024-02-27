@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Cooking with React
+A course guiding learners through React basics.
+
+## Archival Notes
+The course is complete, and this repo is now only useful as reference.
+Even as a sandbox it would be better to start a new repo and keep it up to date,
+as this one has not been maintained since the course finished.
+
+---
+
+---
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
